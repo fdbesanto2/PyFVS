@@ -1,6 +1,6 @@
 # Open-FVS
 
-This branch, [svn-trunk-ci](https://github.com/tharen/PyFVS/tree/svn-trunk), 
+This branch, [svn-trunk-ci](https://github.com/tharen/PyFVS/tree/svn-trunk-ci), 
 tracks trunk in the official SVN
 [Open-FVS](https://sourceforge.net/p/open-fvs/code/HEAD/tree/trunk/) 
 repository. Minor modification to the build scripts have been included to 
